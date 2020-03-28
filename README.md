@@ -1,5 +1,5 @@
 # Cooper Vos Build
-Cooper Vos build week one
+Reproducable ipynb
 
-![](https://repoocsov.github.io/)
-https://repoocsov.github.io/
+![](https://repoocsov.info)
+https://repoocsov.info
